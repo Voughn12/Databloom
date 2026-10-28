@@ -1,15 +1,49 @@
-# Databloom - empty public release
+<img width="2048" height="768" alt="bb78aeba-3f63-4365-be4a-a20b832529ca" src="https://github.com/user-attachments/assets/ea31a5d3-38e0-455e-b081-929450871138" />
 
-This copy starts with no sample properties, site visits, forms, or photos. It is a standalone static website.
-Created by Voughn. 
+<div align="center">
 
-sakit na akong likod.
+# 🌱 Databloom
 
-## Publish with GitHub Pages
+### A workspace for building assets, inspections, and maintenance.
 
-1. Upload index.html to the root of a GitHub repository.
-2. In the repository, open Settings > Pages.
-3. Choose Deploy from a branch, select main and /(root), then save.
-4. Open the Pages URL GitHub provides.
+**Created by Voughn**
 
-Records created in the site are saved in that visitor's browser. This static release does not synchronize edits between visitors. The repository and published site are public, so only add information and photos that are okay to share publicly.
+*Every property has a story. Databloom helps keep its records clear, its visits documented, and its next steps in view.*
+
+</div>
+
+---
+
+## What Databloom can do
+
+| Workspace | What you can do |
+| --- | --- |
+| **Property inventory** | Keep each building’s ID, name, agency, location, ownership status, condition, notes, inspection date, and estimated costs together. |
+| **Site visits** | Record visit dates, inspectors, findings, follow-up actions, notes, repair estimates, and verification photos. |
+| **Visit forms** | Complete and edit Forms 16-24, 16-25, and 16-26 for an individual site visit, then export them as PDFs. |
+| **Photo records** | Add photos to properties and visits, browse them in the site’s image viewers, and keep them with their visit dates. |
+| **Overview** | See visit activity, property-condition mix, estimated repair exposure, recent repairs, and follow-ups at a glance. |
+| **Maintenance** | Review repair and maintenance estimates by property and visit, with portfolio totals calculated from the records. |
+| **Data Room** | Import or export a full JSON backup with property data, visits, forms, and photos. CSV and PDF exports are available too. |
+| **Comfort and organization** | Search, filter, sort, and switch between light and dark themes. |
+
+## Getting started
+
+1. Open **Properties** and add a building.
+2. Open that property and log a **site visit**.
+3. Add the inspection finding, notes, estimated cost, follow-up action, and photos.
+4. Open the visit’s forms to complete its inventory and condition records.
+5. Use **Overview** and **Maintenance** to review the portfolio and plan next steps.
+6. In **Data Room**, export a full backup regularly. Import a backup there to restore it in another browser.
+
+## A note about saved data
+
+This release starts with an empty workspace. Databloom saves records and photos in the browser being used. That means edits made by one visitor do not automatically appear for other visitors. A full backup can move the workspace between browsers, but it does not create live syncing.
+
+Only enter or import information and photos that you are comfortable keeping in that browser and, where applicable, sharing publicly.
+
+## About
+
+Databloom was created for CE532: Database Management. The project demonstrates how a database management system can organize property records, site visits, inspection forms, photos, and maintenance information in one workspace
+
+
